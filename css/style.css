@@ -1,0 +1,14 @@
+body {
+  background-color: #dddddd;
+}
+.card {
+  text-align: center;
+  background-color: white;
+  box-shadow: 3px 3px 1px black;
+  padding: 10px;
+  margin: 30px;
+}
+
+.card h3 {
+  margin: 2px;
+}
